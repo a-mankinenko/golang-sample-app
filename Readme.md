@@ -34,7 +34,7 @@ Sample pipelines:
 * [Multistage Docker image and embedded unit tests](codefresh-multi-stage.yml)
 
 Read https://codefresh.io/docs/docs/learn-by-example/golang/golang-hello-world/ for more details
-push11
+push11s
 
 
 
