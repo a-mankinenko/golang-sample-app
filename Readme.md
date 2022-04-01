@@ -4,6 +4,7 @@ Original source: https://github.com/callicoder/go-docker
 
 ## Build locally
 
+
 Normal docker build (not using modules) - image size is 775MB
 
 `docker build . -t go-sample-app-full`
