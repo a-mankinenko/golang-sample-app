@@ -1,4 +1,4 @@
-# Codefresh Go example - push 20
+# Codefresh Go example - push 21
 
 Original source: https://github.com/callicoder/go-docker
 
