@@ -1,4 +1,4 @@
-# Codefresh1111 Go exampleqq
+# Codefresh1111 Go exampleqq-pr
 
 Original source: https://github.com/callicoder/go-docker
 
